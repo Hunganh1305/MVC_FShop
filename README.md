@@ -1,0 +1,1 @@
+This is a mini project of my team to make a website purchase phone !
